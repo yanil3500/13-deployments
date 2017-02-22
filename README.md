@@ -1,5 +1,8 @@
-![CF](https://i.imgur.com/7v5ASc8.png)  Lab 13: Heroku Deployment
-=======
+
+![CF](https://i.imgur.com/7v5ASc8.png)  
+# Lab 13: Heroku Deployment!
+*Let's get out blog app deployed on Heroku!*
+
 [Code of Conduct](https://github.com/codefellows/code-of-conduct)
 
 Ready to share what you've made with the world? Yes!
@@ -10,12 +13,11 @@ We'll be using Heroku as our production server. Heroku is a "Platform as a Servi
 
 ## Heroku Deployment
 
-1. Follow your standard Fork & Clone process to set up today's lab
+1. Follow your standard Fork & Clone process to set up today's lab, with one difference
 2. Once you've set up your standard workflow, you will need to create a new Heroku app within your repository
 3. Don't forget to set your Github Token as an environment variable in the Heroku app
 4. Deploy to your new instance!
 5. Let your brilliance shine unto the world!
-
 
 ## User Stories: MVP
  1. As a site owner, I want my site running on a robust hosting platform, so that I don't have to hire a sysadmin.
@@ -32,4 +34,4 @@ We'll be using Heroku as our production server. Heroku is a "Platform as a Servi
 ## Technical Requirements and Grading Rubric
  - Ensure your code passes ESLint
  - DO NOT create your Heroku app with a default name. If you do accidentally, rename it. Or blow it away, and start again.
- - Link to your live site in your README, for whichever repo you deploy.
+ - Link to your live site in your README, for any repo/project you deploy.
